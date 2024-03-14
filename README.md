@@ -14,9 +14,9 @@ The chart below shows log errors of 20 pie charts along with the bootstraped con
 
 * There is a great variance between charts, for example, charts 8 (having the most accurate estimations) and 12 (having the worst estimations). \
 **Chart 8**
-![9 (10)](https://github.com/OzgeAygul/a3-Experiment/assets/77694285/bc496848-e379-43ba-9690-0a2721d3d2be)
+![9 (10)](https://github.com/OzgeAygul/a3-Experiment/assets/77694285/bc496848-e379-43ba-9690-0a2721d3d2be) \
 **Chart 12**
-![13 (77 8)](https://github.com/OzgeAygul/a3-Experiment/assets/77694285/d1bc3ab7-13f0-4e91-b68f-c557752c6d36)
+![13 (77 8)](https://github.com/OzgeAygul/a3-Experiment/assets/77694285/d1bc3ab7-13f0-4e91-b68f-c557752c6d36)\
 
 
 
