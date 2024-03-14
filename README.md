@@ -21,6 +21,8 @@ The chart below shows log errors of 20 pie charts along with the bootstraped con
 
 ![13 (77 8)](https://github.com/OzgeAygul/a3-Experiment/assets/77694285/d1bc3ab7-13f0-4e91-b68f-c557752c6d36)
 
+
+* The reason that leads to this can be 1) **Position**: When marked slices are adjacent to each other, it could be easier to judge. 2) **Number of data points**: 
   
 
 
