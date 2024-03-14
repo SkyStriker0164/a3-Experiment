@@ -32,8 +32,10 @@ The chart below shows log errors of 20 bar charts.
 ![alt text](Bar_Logerror-1.png)
 
 There's also a huge variance between these charts, chart 7 is hving worst estimations.
+
 **Chart 7** 
 ![alt text](7.jpg)
+
 Tree Map
 ===
 
